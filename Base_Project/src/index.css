@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  /* Add your theme settings here */
+  --font-family: 'Inter', sans-serif;
+  --font-size-base: 16px;
+
+  
+}
